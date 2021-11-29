@@ -1,0 +1,2 @@
+sudo lvextend /dev/mapper/ubuntu--vg-ubuntu--lv /dev/sdax
+sudo resizefs /dev/mapper/ubuntu--vg-ubuntu--lv
